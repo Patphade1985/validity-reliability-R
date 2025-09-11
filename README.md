@@ -23,3 +23,5 @@ source("analysis/factor_analysis.R")
 
 # Generate report
 rmarkdown::render("reports/psychometric_report.Rmd")
+
+- [LinkedIn](https://linkedin.com/in/patrick-chimadzuma)
